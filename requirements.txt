@@ -1,0 +1,7 @@
+https://github.com/KurimuzonAkuma/pyrogram/archive/dev.zip
+TgCrypto
+httpx
+beautifulsoup4
+python-dotenv
+aiosqlite
+pyromod
